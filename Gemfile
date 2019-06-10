@@ -12,7 +12,11 @@ gem 'sidekiq', '~> 5.2.7'
 
 
 group :development, :test do
+  gem 'rspec-rails', '~> 3.8'
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
+  gem 'factory_bot_rails', '~> 5.0'
+  gem 'shoulda-matchers'
+  gem 'rspec-json_expectations'
 end
 
 group :development do
