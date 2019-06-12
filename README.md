@@ -99,7 +99,7 @@ If you will enter wrong Token then you will get following error message
 }
 ```
 
-![alt text](https://raw.githubusercontent.com/sajjadmurtaza/medwing/master/public/stat.png "apis Screenshot")
+![alt text](https://raw.githubusercontent.com/sajjadmurtaza/asana_rebel_api/master/public/stat.png "apis Screenshot")
 
 ***
 
@@ -142,7 +142,7 @@ Output:
         }
     }
 ```    
-![alt text](https://raw.githubusercontent.com/sajjadmurtaza/medwing/master/public/readings.png "apis Screenshot")
+![alt text](https://raw.githubusercontent.com/sajjadmurtaza/asana_rebel_api/master/public/readinngs.png "apis Screenshot")
 
 ***
 
@@ -173,7 +173,7 @@ Output:
         "message": "Saving is reading for number: :id"
     }
 ```    
-![alt text](https://raw.githubusercontent.com/sajjadmurtaza/medwing/master/public/reading.png "apis Screenshot")
+![alt text](https://raw.githubusercontent.com/sajjadmurtaza/asana_rebel_api/master/public/reading.png "apis Screenshot")
 
 
 
