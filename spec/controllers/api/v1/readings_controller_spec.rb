@@ -14,5 +14,5 @@ RSpec.describe 'Api V1 Readings Controller', type: :request do
     end
 
   end
-  
+
 end
